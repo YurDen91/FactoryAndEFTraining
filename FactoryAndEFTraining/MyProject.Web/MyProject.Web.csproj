@@ -5,7 +5,8 @@
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
-        <RootNamespace>FactoryAndEFRaining</RootNamespace>
+        <RootNamespace>MyProject.Web</RootNamespace>
+        <AssemblyName>MyProject.Web</AssemblyName>
     </PropertyGroup>
 
     <ItemGroup>
